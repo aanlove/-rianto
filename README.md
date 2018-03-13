@@ -1,0 +1,2 @@
+# -rianto
+jangan ada dusta 

@@ -1,0 +1,16 @@
+{
+  "name": "-rianto",
+  "description": "hanya belajar",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
